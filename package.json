@@ -4,12 +4,15 @@
   "description": "Example of API with DB",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "fodark",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.16.4",
     "knex": "^0.16.5",
+    "objection": "^1.6.8",
     "pg": "^7.10.0"
   }
 }
