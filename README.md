@@ -17,7 +17,7 @@ It also shows how to use eager loading to get related queries.
 
 ## How to use it
 
-- Clone this repo: ``
+- Clone this repo: `git clone https://github.com/Fodark/express-knex-objection`
 - `cd express-knex-objection`
 - `npm install` to install required packages
 - Modify database connection according to your machine in `knexfile.js`
