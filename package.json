@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "knex": "^0.16.5",
+    "knex": "^0.19.5",
     "objection": "^1.6.11",
     "pg": "^7.18.2"
   }
